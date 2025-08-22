@@ -16,6 +16,14 @@
 - 🧠 Analytical, meticulous, and slightly obsessed with getting things right.
 - 💡 Driven by creativity and a love for improving processes through smart work.
 <br>
+<!-- SKILLS -->
+<div align="left">Skills:</div>
+<br>
+
+<img src="https://practicum-content.s3.amazonaws.com/resources/Fundamentos_de_Automatizacion_de_pruebas_1714208502.png" width="70" height="70"   />  <img src="https://practicum-content.s3.amazonaws.com/resources/SQL_1714208563.png" width="70" height="70"   />  <img src="https://practicum-content.s3.amazonaws.com/resources/Linea_de_comandos_1714208553.png" width="70" height="70"   />  <img src="https://practicum-content.s3.amazonaws.com/resources/Pruebas_de_aplicaciones_moviles_1714208588.png" width="70" height="70"   />  <img src="https://practicum-content.s3.amazonaws.com/resources/Seguimiento_de_bugs_1714208806.png" width="70" height="70"   />  <img src="https://practicum-content.s3.amazonaws.com/resources/Pruebas_de_aplicaciones_web_1714208741.png" width="75" height="75" /><img src="https://practicum-content.s3.amazonaws.com/resources/Diseno_de_pruebas_1714208876.png" width="70" height="70"  /><img src="https://practicum-content.s3.amazonaws.com/resources/Ciclo_de_vida_del_desarrollo_de_un_software_1714208857.png" width="85" height="85"  /><img src="https://practicum-content.s3.amazonaws.com/resources/Python_1714208493.png" width="70" height="70"   />
+
+</div>
+
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-fuentes-morales-qa/)
 
