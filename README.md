@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.instagram.com/max_fuentes?igsh=YXd3MGVmOTgyejU5">Max</a> 👋</h1>
+<h1 align="center">Hello, I'm<a href="https://www.instagram.com/max_fuentes?igsh=YXd3MGVmOTgyejU5">Max</a> 👋</h1>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
   <a href=maximiliano.fuentes.mor@gmail.com><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
 </div>
 
-## Sobre mi
+## About me
 
 - 🌊 QA Engineer Jr | Passionate about solving complex problems with precision. 
 - 🎮 Gamer & creative thinker, always exploring new solutions and ideas.
